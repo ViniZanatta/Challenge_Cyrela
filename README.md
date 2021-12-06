@@ -1,4 +1,4 @@
-# Challenge_Cyrela
+# Fiap Challenge Cyrela - Instruções de execução
 Ambiente para fonte de dados
 A fonte de dados para o dashboard do Power Bi (OLAP), foi gerada a partir dos DDLs e arquivos de dados (*.csv) enviados pela Cyrela. Foi utilizado um banco de dados SQL Server e uma planilha Excel, que foi importado para o banco para executar o ETL nos dados.
 
